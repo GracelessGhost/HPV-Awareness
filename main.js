@@ -1,4 +1,4 @@
-// testing
+// testing no prior experience in javascript lol
 
 // Globals
 var keys = {};
