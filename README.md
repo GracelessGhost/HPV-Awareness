@@ -6,4 +6,4 @@ You can find the DevPost submission [here](https://devpost.com/software/dr-go-ge
 
 [Video demo](https://www.youtube.com/watch?v=jYAPqofjcMI).
 
-<img src='https://i.imgur.com/DjPi3Gz.gif' width='' alt='Demo' />
+<img src='https://i.imgur.com/DjPi3Gz.gif' width='200' alt='Demo' />
