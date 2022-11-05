@@ -1,6 +1,6 @@
 # dr-go
 
-Dr. GO is a Javascript applet that simulates the spread of diseases in a country. The player's goal is to maintain their population's health through vaccination and awareness. The game features daily trivia questions that inform about various diseases, as well as a social element that encourages peer-to-peer education.
+Dr. GO is a JavaScript applet that simulates the spread of diseases in a country. The player's goal is to maintain their population's health through vaccination and awareness. The game features daily trivia questions that inform about various diseases, as well as a social element that encourages peer-to-peer education.
 
 My submission to the Stanford health++ hackathon in 2019. It won the award, "Best Global Oncology HPV Solution," with a $500 prize.
 
